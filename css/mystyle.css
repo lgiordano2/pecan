@@ -1,0 +1,98 @@
+.lead {
+	font-family: Adobe Caslon Pro;
+	/* margin-top :-20px; */
+	font-size: 22px;
+}
+.byline {
+	font-family: Adobe Caslon Pro;
+}
+
+.text {
+	font-family: Garmond;
+}
+.introvid {
+	width: 100%;
+}
+
+.introviddiv {
+	    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+}
+
+.chviddiv {
+	    padding-right: 0px;
+    padding-left: 0px;
+	 padding-bottom: 30px;
+}
+.figcapt
+{
+	font-style: italic;
+	font-size: 10px;
+}
+.smallpics {
+	width:75%;
+}
+
+#images {
+	margin-top: 2px;
+	margin-bottom: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+.indivpic {
+	margin-top: 5px;
+	margin-bottom: 3px;
+}
+
+.pecangrid {
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-top:1px;
+	padding-bottom: 1px;
+}
+.pecangridrow{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.roomtop {
+	margin-top: 20px;
+}
+
+.nortmar {
+
+	width:79%;
+}
+
+.wbpics {
+	padding-right: 2px;
+		padding-left: 2px;
+		padding-top: 20px;
+
+padding-bottom: 40px;
+}
+
+.chphoto {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.graphic {
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.bottom {
+	bottom: 10px;
+}
+
+.subhead {
+	font-family: serif !important;
+	font-size: 30px;
+}
